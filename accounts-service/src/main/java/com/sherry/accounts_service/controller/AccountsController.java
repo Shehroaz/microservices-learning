@@ -6,7 +6,6 @@ import com.sherry.accounts_service.dto.ResponseDto;
 import com.sherry.accounts_service.service.IAccountsService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Pattern;
-import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
